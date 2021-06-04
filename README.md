@@ -1,3 +1,13 @@
+# React ToDo App
+## Features used
+- useState hook
+- useEffect hook
+- React Router
+- Props
+
+---
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

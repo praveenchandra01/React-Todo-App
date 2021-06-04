@@ -11,7 +11,7 @@ export const Footer = () => {
     }
     return (
         <footer className="bg-dark text-light py-1 " style={Footercss}>
-            <h4 className="text-center">Copyrigth &copy; {year} </h4>
+            <h6 className="text-center ">Copyright &copy; {year} </h6>
         </footer>
     )
 }
