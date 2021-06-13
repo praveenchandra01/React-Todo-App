@@ -4,7 +4,8 @@ import { AddTodo } from "./Components/AddTodo";
 import { Todos } from "./Components/Todos";
 import { About } from "./Components/About";
 import { Footer } from "./Components/Footer";
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { HashRouter as Router, Switch, Route } from "react-router-dom";
+
 
 function App() {
   let initTodo;
@@ -43,7 +44,7 @@ function App() {
   return (
     <div className="App">
       <>
-        <Router>
+        <Router basename="/">
           <Header />
           <Switch>
             <Route
