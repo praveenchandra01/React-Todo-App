@@ -21,7 +21,7 @@ export const AddTodo = (props) => {
       <form onSubmit={submit}>
         <div className="mb-3">
           <label htmlFor="title" className="form-label">
-            Todo title
+            Todo Title
           </label>
           <input
             type="text"
