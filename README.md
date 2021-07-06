@@ -14,3 +14,5 @@
 #### Access link : https://praveenchandra01.github.io/React-Todo-App/
 ---
 
+## Preview
+![](https://github.com/praveenchandra01/React-Todo-App/blob/master/public/Preview.png)
