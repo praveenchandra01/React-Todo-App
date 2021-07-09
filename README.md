@@ -15,4 +15,4 @@
 ---
 
 ## Preview
-![](https://github.com/praveenchandra01/React-Todo-App/blob/master/public/Preview.png)
+![](https://github.com/praveenchandra01/React-Todo-App/blob/master/public/Preview_1.png)
